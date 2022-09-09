@@ -1,1 +1,1 @@
-print('DevTools y24')
+print('DevTools')
